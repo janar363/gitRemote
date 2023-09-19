@@ -1,0 +1,3 @@
+this is first file
+
+new line for feature 1
